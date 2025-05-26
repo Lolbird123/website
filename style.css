@@ -10,6 +10,10 @@ h1, h2, h3 {
   color: #ff0044;
 }
 
+* {
+  font-family: monospace;
+}
+
 hr {
   color: #008aff;
 }
