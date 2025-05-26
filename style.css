@@ -1,9 +1,15 @@
+/* fuck rounded edges */
+* {
+  border-radius: 0px;
+}
+
 body {
   background-color: black;
 }
 
-p, label {
+p, label, li {
   color: white;
+  font-size: 14px;
 }
 
 h1, h2, h3 {
